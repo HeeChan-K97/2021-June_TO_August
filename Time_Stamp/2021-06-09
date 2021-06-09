@@ -1,0 +1,11 @@
+git add<filename>
+: 어떤 파일을 만들어서 입력할 때 사용하는 코드
+
+git status
+: 파일의 현재 상태 확인
+
+git init
+: Repository 생성
+
+git commit
+: 변경 내용 확정
